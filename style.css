@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+}
+
+.container{
+    padding-top: 10%;
+    text-align: center;
+}
+.login_form{
+    /* background-color: aqua; */
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.item-box{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    margin: 0 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.added{
+    padding: 30px;
+}
+.status{
+    margin-bottom: 50px;
+}
+#transtion-area  {
+    display: none;
+}
+#Deposit{
+    background-color: tomato;
+}
+#Withdraw{
+    background-color: violet;
+}
+#Balance{
+    background-color: orange;
+}
